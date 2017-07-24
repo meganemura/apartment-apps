@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/meganemura/apartment.git
-  revision: d5b4f910959fe0554cd74db7838b9fbd134c1e8b
+  revision: 98d000d4c781c2d6a695f07a717021a3d92f3299
   branch: issue-464
   specs:
     apartment (1.2.0)
