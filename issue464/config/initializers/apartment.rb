@@ -47,7 +47,7 @@ Apartment.configure do |config|
   #   end
   # end
   #
-  config.tenant_names = []
+  config.tenant_names = ['tenant1', 'tenant2']
 
   #
   # ==> PostgreSQL only options
